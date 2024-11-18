@@ -59,12 +59,17 @@ const indi = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.5 MB Used in GitHub's Storage 
  > 
-> 🏆 594 Contributions in the Year 2024
+> 🏆 597 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -75,21 +80,21 @@ const indi = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2273 commits        █████████░░░░░░░░░░░░░░░░   37.49 % 
-🌆 Daytime                3088 commits        █████████████░░░░░░░░░░░░   50.93 % 
-🌃 Evening                474 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+🌞 Morning                2273 commits        █████████░░░░░░░░░░░░░░░░   37.47 % 
+🌆 Daytime                3091 commits        █████████████░░░░░░░░░░░░   50.96 % 
+🌃 Evening                474 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 🌙 Night                  228 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1006 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Tuesday                  1563 commits        ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-Wednesday                924 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Thursday                 1312 commits        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Friday                   742 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Monday                   1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Tuesday                  1563 commits        ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+Wednesday                924 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Thursday                 1312 commits        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+Friday                   742 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
 Saturday                 153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Sunday                   363 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Sunday                   363 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 ```
 
 
@@ -102,6 +107,9 @@ Sunday                   363 commits         █░░░░░░░░░░�
 No Activity Tracked This Week
 
 🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
@@ -120,8 +128,12 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 18/11/2024 21:27:55 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/indervirsingh/indervirsingh/master/assets/bar_graph.png)
+
+
+ Last Updated on 18/11/2024 22:03:08 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
