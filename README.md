@@ -61,34 +61,22 @@ const indi = {
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 2.5 MB Used in GitHub's Storage 
- > 
-> 🏆 600 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 22 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                2273 commits        █████████░░░░░░░░░░░░░░░░   37.45 % 
-🌆 Daytime                3094 commits        █████████████░░░░░░░░░░░░   50.98 % 
+🌆 Daytime                3095 commits        █████████████░░░░░░░░░░░░   50.99 % 
 🌃 Evening                474 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 🌙 Night                  228 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1012 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Monday                   1013 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
 Tuesday                  1563 commits        ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
 Wednesday                924 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Thursday                 1312 commits        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Friday                   742 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Thursday                 1312 commits        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+Friday                   742 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 Saturday                 153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 Sunday                   363 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 ```
@@ -109,12 +97,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/indervirsingh/indervirsingh/master/assets/bar_graph.png)
-
-
- Last Updated on 18/11/2024 22:24:34 UTC
+ Last Updated on 18/11/2024 22:41:44 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
