@@ -22,7 +22,7 @@ npx anmol
 ```javascript
 const indi = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
+    code: ["TypeScript", "Javascript", "Python", "C++"],
     askMeAbout: ["MEAN Stack", "iOS apps", "Web Design", "UI/UX", "tech trends"],
     technologies: {
         frontEnd: {
