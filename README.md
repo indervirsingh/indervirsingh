@@ -20,7 +20,7 @@ npx anmol
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const indi = {
+const INDI = {
     pronouns: "He" | "Him",
     code: ["TypeScript", "Javascript", "Python", "C++"],
     askMeAbout: ["MEAN Stack", "iOS apps", "Web Design", "UI/UX", "tech trends"],
