@@ -88,14 +88,14 @@ Sunday                   1606 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/12/2024 00:11:24 UTC
+ Last Updated on 11/12/2024 00:11:23 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
