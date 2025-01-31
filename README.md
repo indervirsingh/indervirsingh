@@ -88,14 +88,14 @@ Sunday                   1977 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      44 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/01/2025 00:12:36 UTC
+ Last Updated on 31/01/2025 00:12:32 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
