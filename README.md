@@ -28,10 +28,10 @@ const INDI = {
         frontEnd: {
             js: ["React", "Next.js", "Angular"],
             css: ["Sass", "Tailwind", "Bootstrap", "Foundation"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+            uiLibraries: ["PrimeNG", "Material UI", "Ant Design", "Chakra UI"],
         },
         backEnd: {
-            js: ["Node", "Express", "NestJS"],
+            js: ["Node", "Bun", "Express", "NestJS"],
             python: ["Flask"],
         },
         mobileApp: {
