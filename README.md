@@ -88,14 +88,14 @@ Sunday                   1981 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
+VS Code                  50 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 31 mins        █████████████████████████   100.00 % 
+Mac                      50 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/05/2025 00:13:10 UTC
+ Last Updated on 11/05/2025 00:12:26 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
