@@ -88,14 +88,14 @@ Sunday                   1983 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 🔥 Editors: 
-Windsurf                 1 hr 3 mins         █████████████████████████   100.00 % 
+Windsurf                 59 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
+Mac                      59 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/06/2025 00:14:13 UTC
+ Last Updated on 02/06/2025 00:12:18 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
