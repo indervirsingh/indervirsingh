@@ -59,10 +59,43 @@ const INDI = {
 
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-119.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.0%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                24645 commits       ██████████░░░░░░░░░░░░░░░   38.23 % 
+🌆 Daytime                29923 commits       ████████████░░░░░░░░░░░░░   46.42 % 
+🌃 Evening                4180 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+🌙 Night                  5711 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   9817 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Tuesday                  15773 commits       ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+Wednesday                12097 commits       █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Thursday                 15057 commits       ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+Friday                   8255 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Saturday                 777 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Sunday                   2683 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+```
 
 
- Last Updated on 18/09/2025 00:15:33 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+🔥 Editors: 
+Windsurf                 2 hrs 31 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      2 hrs 31 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 19/09/2025 00:18:13 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
